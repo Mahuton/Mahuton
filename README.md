@@ -6,7 +6,7 @@ I'm Mahuton, software developer and E-Commerce projects Lead based in Paris.
 
 I'm currently working as software developer and Technical Product Owner for the [LVMH](https://en.wikipedia.org/wiki/LVMH) company.
 
-I'm also the founder and tech lead at [Cauris Dev] (https://www.cauris-dev.com/) a digital and web agency based in Paris.
+I'm also the founder and tech lead at [Cauris Dev](https://www.cauris-dev.com) a digital and web agency based in Paris.
 
 ## Open source software contributor by nights
 
