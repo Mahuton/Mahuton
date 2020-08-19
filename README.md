@@ -2,13 +2,15 @@
 
 I'm Mahuton, software developer and E-Commerce projects Lead based in Paris.
 
-## Technical lead and Product owner by days
+## Tech lead and Product owner by days
 
-I'm currently working as software developer and Technical Product Owner for the LVMH company.
+I'm currently working as software developer and Technical Product Owner for the [LVMH](https://en.wikipedia.org/wiki/LVMH) company.
 
-## Open source contributor by nights
+I'm also the founder and tech lead at [Cauris Dev] (https://www.cauris-dev.com/) a digital and web agency based in Paris.
 
-I'm a volunteer contributor to Mediawiki, the software that power Wikipedia and other Wiki projects.
+## Open source software contributor by nights
+
+I'm a volunteer contributor to [Mediawiki](https://github.com/wikimedia/mediawiki), the software that power [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) and other Wiki projects.
 
 Here are some of my contributions: [https://gerrit.wikimedia.org/r/q/Mh-3110](https://gerrit.wikimedia.org/r/q/Mh-3110)
 
