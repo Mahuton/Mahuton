@@ -6,12 +6,16 @@ I'm **Mahuton**, software developer and E-Commerce projects Lead based in Paris.
 
 Currently I'm working as software developer and Technical Product Owner for the [LVMH](https://en.wikipedia.org/wiki/LVMH) company.
 
-I'm also the founder and tech lead at [Cauris Dev](https://www.cauris-dev.com) a digital and web agency based in Paris.
+I'm also the founder and tech lead at [Cauris Dev](https://www.cauris-dev.com) a digital and [Shopify Expert](https://experts.shopify.com/cauris-dev) web agency based in Paris. 
 
 #### Open source software contributor by nights
 
 I'm a volunteer contributor to [Mediawiki](https://github.com/wikimedia/mediawiki), the software that power [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) and other Wiki projects.
 [Some of my Mediawiki contributions](https://gerrit.wikimedia.org/r/q/Mh-3110)
+
+#### Mentoring
+
+I'm a #Python mentor at [OpenClassrooms](https://openclassrooms.com/en/) supporting students to progress, find goals and get organized.
 
 <!--
 **Mahuton/Mahuton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
